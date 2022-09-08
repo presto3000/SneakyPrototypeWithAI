@@ -3,7 +3,7 @@
 Unreal SneakyPrototype project made in 5 days after hours.  
 
 BaseClasses made in Cpp. Additional functionality and effects in BP.  
-~1.6GB  
+~1.6GB Unreal 4.27  
 Features:  
 • ALS V4 for the Player and the Enemy  
 •	SneakyLevel  
