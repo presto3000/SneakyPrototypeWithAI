@@ -4,7 +4,7 @@ Unreal SneakyPrototype project made in 5 days after hours.
 
 BaseClasses made in Cpp. Additional functionality and effects in BP.  
 
-Features:
+Features:  
 • ALS V4 for the Player and the Enemy  
 •	SneakyLevel  
 •	AIEnemy with AK47, with patrol points, ping-pong logic  
