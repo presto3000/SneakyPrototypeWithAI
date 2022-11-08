@@ -1,4 +1,4 @@
-# TestRock
+# SneakyPrototypeWithAI
 
 Unreal SneakyPrototype project made in 5 days after hours.  
 
